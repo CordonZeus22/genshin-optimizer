@@ -1,5 +1,5 @@
 {
-  "name": "Siete de Marzo",
+  "name": "Siete de Marzo • Cacería",
   "abilities": {
     "basic": {
       "0": {
@@ -38,6 +38,27 @@
       "0": {
         "name": "Ataque",
         "fullDesc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+        "shortDesc": ""
+      }
+    },
+    "bonusAbility1": {
+      "0": {
+        "name": "Donaire",
+        "fullDesc": "Al comenzar la batalla, la acción de Siete de Marzo se adelanta un {{1}}%.",
+        "shortDesc": ""
+      }
+    },
+    "bonusAbility2": {
+      "0": {
+        "name": "Finura",
+        "fullDesc": "Siete de Marzo puede reducir la Firmeza de los enemigos que tengan Debilidad del tipo del Maestro. Al causar Ruptura de Debilidad, también activa el efecto de Ruptura Imaginaria.",
+        "shortDesc": ""
+      }
+    },
+    "bonusAbility3": {
+      "0": {
+        "name": "Domadora de olas",
+        "fullDesc": "Tras usar el ATQ básico potenciado, el Daño CRIT y el efecto de Ruptura del Maestro aumentan respectivamente en un {{1}}% y en un {{2}}% durante {{3}} turnos.",
         "shortDesc": ""
       }
     }
