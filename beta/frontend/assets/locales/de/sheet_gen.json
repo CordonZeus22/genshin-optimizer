@@ -60,12 +60,14 @@
     "superconduct": "Supraleiter",
     "vaporize": "Verdampfen",
     "melt": "Schmelzen",
-    "bloom": "Sprießen",
+    "bloom": "",
     "burgeon": "Flammenspross",
     "hyperbloom": "Supraspross",
     "quicken": "Urwuchs",
     "aggravate": "Suprawuchs",
-    "spread": "Rankenwuchs"
+    "spread": "Rankenwuchs",
+    "stellarconduct": "Stellar-Supraleiter",
+    "stellarswirl": "Stellar-Verwirbelung"
   },
   "stat": {
     "def": "VTD",
@@ -84,6 +86,7 @@
   "unlockPassive1": "Ab Figurenaufstiegsstufe 1 verfügbar",
   "unlockPassive2": "Ab Figurenaufstiegsstufe 4 verfügbar",
   "unlockPassive3": "Passives Talent",
+  "unlockLockedPassive": "Nach dem Abschließen der vorausgehenden Aufträge verfügbar",
   "witchPassive": "Aufgabe der Hexe",
   "moonsign": "Mondomen",
   "hexerei": "Hexerei"

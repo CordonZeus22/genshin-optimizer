@@ -60,12 +60,14 @@
     "superconduct": "超导",
     "vaporize": "蒸发",
     "melt": "融化",
-    "bloom": "绽放",
+    "bloom": "",
     "burgeon": "烈绽放",
     "hyperbloom": "超绽放",
     "quicken": "原激化",
     "aggravate": "超激化",
-    "spread": "蔓激化"
+    "spread": "蔓激化",
+    "stellarconduct": "星超导",
+    "stellarswirl": "星扩散"
   },
   "stat": {
     "def": "防御力",
@@ -84,6 +86,7 @@
   "unlockPassive1": "角色突破等级1解锁",
   "unlockPassive2": "角色突破等级4解锁",
   "unlockPassive3": "固有天赋",
+  "unlockLockedPassive": "完成前置任务后解锁",
   "witchPassive": "魔女的课业",
   "moonsign": "月兆",
   "hexerei": "魔导"

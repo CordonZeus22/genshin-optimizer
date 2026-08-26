@@ -35,7 +35,11 @@
       "12": "",
       "13": "",
       "14": "",
-      "15": ""
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": ""
     }
   },
   "skill": {
@@ -61,17 +65,21 @@
       "12": "",
       "13": "",
       "14": "",
-      "15": ""
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": ""
     }
   },
   "burst": {
     "name": "Forbidden Creation - Isomer 75 / Type II",
     "description": {
-      "0": "Sucrose melemparkan sebuah ramuan yang menciptakan Large Wind Spirit.",
-      "1": "Selama ramuan itu ada, Large Wind Spirit akan terus-menerus menarik musuh dan obyek yang ada di sekitar, menghasilkan <anemo>Anemo DMG</anemo>.",
+      "0": "Sucrose melemparkan sebuah ramuan yang menciptakan Wind Spirit besar.",
+      "1": "Selama ramuan itu ada, Wind Spirit besar akan terus-menerus menarik musuh dan obyek yang ada di sekitar, menghasilkan <anemo>Anemo DMG</anemo>.",
       "2": "<br/>",
       "3": "<strong>Elemental Absorption</strong>",
-      "4": "Ketika Wind Spirit bersentuhan dengan elemen<hydro>Hydro</hydro>/<pyro>Pyro</pyro>/<cryo>Cryo</cryo>/<electro>Electro</electro>, maka akan mengakibatkan elemental DMG tambahan dari tipe tersebut.",
+      "4": "Ketika Wind Spirit bersentuhan dengan elemen <hydro>Hydro</hydro>/<pyro>Pyro</pyro>/<cryo>Cryo</cryo>/<electro>Electro</electro>, maka akan mengakibatkan elemental DMG tambahan dari tipe tersebut.",
       "5": "Elemental Absorption hanya dapat muncul satu kali dalam sekali penggunaan.",
       "6": "<br/>",
       "7": "<i>Sucrose dulunya selalu memberikan nama kepada Anemo Hypostases miliknya. Namun mereka berkembang biak dengan cepat sampai melampaui Baron Bunny ke-893.</i>"
@@ -92,13 +100,17 @@
       "12": "",
       "13": "",
       "14": "",
-      "15": ""
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": ""
     }
   },
   "passive1": {
     "name": "Catalyst Conversion",
     "description": {
-      "0": "Ketika Sucrose memicu Swirl, akan meningkatkan Elemental Mastery anggota party dengan tipe elemen yang sama (tidak termasuk Sucrose sendiri) sebesar 50, berlangsung selama 8 detik."
+      "0": "Ketika Sucrose memicu Swirl atau Stellar Swirl, akan meningkatkan Elemental Mastery anggota party dengan tipe elemen yang sama (tidak termasuk Sucrose sendiri) sebesar 50, berlangsung selama 8 detik."
     }
   },
   "passive2": {

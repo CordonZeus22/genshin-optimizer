@@ -60,12 +60,14 @@
     "superconduct": "Superconduct",
     "vaporize": "Vaporize",
     "melt": "Melt",
-    "bloom": "Bloom",
+    "bloom": "",
     "burgeon": "Burgeon",
     "hyperbloom": "Hyperbloom",
     "quicken": "Quicken",
     "aggravate": "Aggravate",
-    "spread": "Spread"
+    "spread": "Spread",
+    "stellarconduct": "Stellar-Conduct",
+    "stellarswirl": "Stellar Swirl"
   },
   "stat": {
     "def": "DEF",
@@ -84,6 +86,7 @@
   "unlockPassive1": "Terbuka saat Tahap Ascension Karakter 1",
   "unlockPassive2": "Terbuka saat Tahap Ascension Karakter 4",
   "unlockPassive3": "Talenta Pasif",
+  "unlockLockedPassive": "Terbuka setelah menyelesaikan quest prasyarat.",
   "witchPassive": "PR Penyihir",
   "moonsign": "Moonsign",
   "hexerei": "Arcane"

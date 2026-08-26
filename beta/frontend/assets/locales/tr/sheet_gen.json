@@ -60,12 +60,14 @@
     "superconduct": "Süper İletim",
     "vaporize": "Buharlaştı",
     "melt": "Eridi",
-    "bloom": "Çiçeklenme",
+    "bloom": "",
     "burgeon": "Filizlenme",
     "hyperbloom": "Aşırı Çiçeklenme",
     "quicken": "Hızlandı",
     "aggravate": "Şiddetlenme",
-    "spread": "Yayılma"
+    "spread": "Yayılma",
+    "stellarconduct": "Yıldız İletimi",
+    "stellarswirl": "Yıldız Girdabı"
   },
   "stat": {
     "def": "Savunma",
@@ -84,6 +86,7 @@
   "unlockPassive1": "1. Karakter Yükseltme Aşamasında açılır",
   "unlockPassive2": "4. Karakter Yükseltme Aşamasında açılır",
   "unlockPassive3": "Pasif Yetenek",
+  "unlockLockedPassive": "Öncelikli görevler tamamlandıktan sonra açılır",
   "witchPassive": "Cadının Ödevi",
   "moonsign": "Ay Sembolü",
   "hexerei": "Cadılık"
