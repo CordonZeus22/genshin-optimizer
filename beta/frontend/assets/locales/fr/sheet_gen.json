@@ -60,12 +60,14 @@
     "superconduct": "Supraconduction",
     "vaporize": "Évaporation",
     "melt": "Fonte",
-    "bloom": "Fleurissement",
+    "bloom": "",
     "burgeon": "Bourgeonnement",
     "hyperbloom": "Exubérance",
     "quicken": "Stimulation",
     "aggravate": "Suractivation",
-    "spread": "Propagation"
+    "spread": "Propagation",
+    "stellarconduct": "Astroconduction",
+    "stellarswirl": "Astrodispersion"
   },
   "stat": {
     "def": "DÉF",
@@ -84,6 +86,7 @@
   "unlockPassive1": "Disponible lorsque le personnage atteint la phase d'élévation 1",
   "unlockPassive2": "Disponible lorsque le personnage atteint la phase d'élévation 4",
   "unlockPassive3": "Aptitude passive",
+  "unlockLockedPassive": "Disponible après avoir terminé les quêtes requises",
   "witchPassive": "Devoirs de la sorcière",
   "moonsign": "Signelune",
   "hexerei": "Hexerei"

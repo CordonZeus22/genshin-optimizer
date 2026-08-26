@@ -60,12 +60,14 @@
     "superconduct": "นำไฟฟ้า",
     "vaporize": "ระเหย",
     "melt": "ละลาย",
-    "bloom": "งอกเงย",
+    "bloom": "",
     "burgeon": "เบ่งบาน",
     "hyperbloom": "ไฮเปอร์บลูม",
     "quicken": "ปลุกเร้า",
     "aggravate": "บีบอัด",
-    "spread": "แพร่ขยาย"
+    "spread": "แพร่ขยาย",
+    "stellarconduct": "นำไฟฟ้าดารา",
+    "stellarswirl": "กระจายดารา"
   },
   "stat": {
     "def": "พลังป้องกัน",
@@ -84,6 +86,7 @@
   "unlockPassive1": "ปลดล็อกเมื่อตัวละครเลื่อนขั้นถึงระดับ 1",
   "unlockPassive2": "ปลดล็อกเมื่อตัวละครเลื่อนขั้นถึงระดับ 4",
   "unlockPassive3": "พรสวรรค์ติดตัว",
+  "unlockLockedPassive": "ปลดล็อกหลังสำเร็จเควสต์ก่อนหน้า",
   "witchPassive": "แบบฝึกหัดของแม่มด",
   "moonsign": "ลัคนาจันทร์",
   "hexerei": "มนตรา"

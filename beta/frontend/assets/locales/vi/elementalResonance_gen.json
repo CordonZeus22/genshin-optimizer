@@ -17,7 +17,7 @@
   },
   "HighVoltage": {
     "name": "Lôi Mạnh Mẽ",
-    "desc": "Thời gian duy trì ấn nguyên tố Thủy giảm 40%. Khi kích hoạt phản ứng Siêu Dẫn, Quá Tải, Điện Cảm, Nguyệt-Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ sẽ có 100% tỉ lệ rơi 1 Hạt Nhân Nguyên Tố Lôi, CD 5s."
+    "desc": "Thời gian duy trì ấn Nguyên Tố Thủy giảm 40%. Khi kích hoạt phản ứng Siêu Dẫn, Tinh-Siêu Dẫn, Quá Tải, Điện Cảm, Nguyệt-Điện Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ sẽ có 100% tỉ lệ rơi 1 Hạt Nhân Nguyên Tố Lôi, CD 5s."
   },
   "ImpetuousWinds": {
     "name": "Phong Nhạy Bén",
@@ -25,7 +25,7 @@
   },
   "EnduringRock": {
     "name": "Nham Kiên Định",
-    "desc": "Hiệu quả khiên tăng 15%. Ngoài ra, khi nhân vật có khiên bảo hộ, sẽ có đặc tính sau: Sát thương gây ra tăng 15%; khi nhân vật gây sát thương cho địch, sẽ khiến kháng nguyên tố Nham của địch giảm 20%, duy trì 15s."
+    "desc": "Hiệu quả khiên tăng 15%. Ngoài ra, khi nhân vật có khiên bảo hộ, hoặc xung quanh có Trăng Trôi sinh ra từ phản ứng Nguyệt-Kết Tinh, thì sẽ có đặc tính sau: Sát thương gây ra tăng 15%. Khi nhân vật gây sát thương cho địch, sẽ khiến kháng nguyên tố Nham của địch giảm 20%, duy trì 15s."
   },
   "SprawlingGreenery": {
     "name": "Thảo Sinh Sôi",

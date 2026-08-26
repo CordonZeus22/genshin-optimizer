@@ -60,12 +60,14 @@
     "superconduct": "Superconductor",
     "vaporize": "Vaporizado",
     "melt": "Derretido",
-    "bloom": "Florecimiento",
+    "bloom": "",
     "burgeon": "Crepitar",
     "hyperbloom": "Sobreflorecimiento",
     "quicken": "Aceleración",
     "aggravate": "Intensificación",
-    "spread": "Propagación"
+    "spread": "Propagación",
+    "stellarconduct": "Superconductor Estelar",
+    "stellarswirl": "Torbellino Estelar"
   },
   "stat": {
     "def": "DEF",
@@ -84,6 +86,7 @@
   "unlockPassive1": "Se desbloquea al alcanzar Niv. de ascensión 1",
   "unlockPassive2": "Se desbloquea al alcanzar Niv. de ascensión 4",
   "unlockPassive3": "Talento pasivo",
+  "unlockLockedPassive": "Se desbloquea tras completar las misiones requeridas",
   "witchPassive": "Lecciones del Aquelarre",
   "moonsign": "Presagio lunar",
   "hexerei": "Taumaturgia"

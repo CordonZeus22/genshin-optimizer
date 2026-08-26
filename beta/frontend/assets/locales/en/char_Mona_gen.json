@@ -35,7 +35,11 @@
       "12": "",
       "13": "",
       "14": "",
-      "15": ""
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": ""
     },
     "skillParamsEncoding": {
       "0": "{{0, percent(fixed: 1)}}%",
@@ -53,7 +57,11 @@
       "12": "",
       "13": "",
       "14": "",
-      "15": ""
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": ""
     }
   },
   "skill": {
@@ -92,7 +100,11 @@
       "12": "",
       "13": "",
       "14": "",
-      "15": ""
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": ""
     },
     "skillParamsEncoding": {
       "0": "{{0, percent(fixed: 1)}}%",
@@ -110,7 +122,11 @@
       "12": "",
       "13": "",
       "14": "",
-      "15": ""
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": ""
     }
   },
   "burst": {
@@ -147,7 +163,11 @@
       "12": "",
       "13": "",
       "14": "",
-      "15": ""
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": ""
     },
     "skillParamsEncoding": {
       "0": "{{0, fixed(fixed: 1)}}s",
@@ -165,7 +185,11 @@
       "12": "",
       "13": "",
       "14": "",
-      "15": ""
+      "15": "",
+      "16": "",
+      "17": "",
+      "18": "",
+      "19": ""
     }
   },
   "sprint": {
@@ -214,20 +238,14 @@
     "description": {
       "0": "When any of your own party members hits an opponent affected by an Omen, the effects of <hydro>Hydro-related Elemental Reactions</hydro> are enhanced for 8s:",
       "1": [
-        " Electro-Charged DMG increases by 15%.",
-        " Lunar-Charged DMG increases by 15%.",
-        " Vaporize DMG increases by 15%.",
-        " Hydro Swirl DMG increases by 15%.",
+        " Electro-Charged DMG increases by 15%, Lunar-Charged DMG increases by 15%, Vaporize DMG increases by 15%, Hydro Swirl DMG increases by 15%, Lunar-Crystallize DMG increases by 15%.",
         " Frozen duration is extended by 15%."
       ]
     },
     "upgradedDescription": {
       "0": "When any of your own party members hits an opponent affected by an Omen, the effects of <hydro>Hydro-related Elemental Reactions</hydro> are enhanced for 8s:",
       "1": [
-        " Electro-Charged DMG increases by 15%.",
-        " Lunar-Charged DMG increases by 15%.",
-        " Vaporize DMG increases by 15%.",
-        " Hydro Swirl DMG increases by 15%.",
+        " Electro-Charged DMG increases by 15%, Lunar-Charged DMG increases by 15%, Vaporize DMG increases by 15%, Hydro Swirl DMG increases by 15%, Lunar-Crystallize DMG increases by 15%.",
         " Frozen duration is extended by 15%."
       ],
       "2": "<br/>",
